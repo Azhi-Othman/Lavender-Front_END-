@@ -1,0 +1,26 @@
+{
+  "ROLE_ADMIN": [
+    { "to": "", "name": "Account Details" },
+    { "to": "/security", "name": "Account Security" },
+    
+    { "to": "/product", "name": "Products" },
+    { "to": "/category", "name": "Categories" },
+    { "to": "/brand", "name": "Brands" },
+    { "to": "/users", "name": "Users" },
+   
+    { "to": "/orders", "name": "Orders" },
+    { "to": "/review", "name": "Reviews" }
+   
+   
+  ],
+ 
+ 
+  "ROLE_MEMBER": [
+    { "to": "", "name": "وردەکاری هەژمار" },
+    { "to": "/security", "name": "پاراستنی هەژمار" },
+    
+    { "to": "/orders", "name": "داواکردن" },
+    { "to": "/wishlist", "name": "هەڵبژاردەکانت" }
+    
+  ]
+}
